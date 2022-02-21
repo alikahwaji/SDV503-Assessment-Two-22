@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [SDV503teams]()
+* :school: [SDV503teams](https://teams.microsoft.com/l/team/19%3adM8_WyFnk00MGHARZLQZrcWvUAFZbatGzIlZEKOQQnc1%40thread.tacv2/conversations?groupId=0f0941d0-346e-4ca2-9663-a09899cb2cb8&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -58,7 +58,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EflPfkhGTaROr3j2qIR0Yy0BmEOczZRrLqS0yi8NE3Zhdg?e=S99blZ)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EcjWQ4X_MAtNjwieCAnAixwBypQ0273RufshX0NU-LUPYQ?e=s0Z5Lk)|
 |---|---|---|---|
 
 
