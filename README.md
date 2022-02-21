@@ -28,7 +28,7 @@
 
 Feedbacks, issues and requests will be in the issues page!<br />Feel free to check [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also take a look at the [GitHub guide](https://guides.github.com/).
 
-## ⭐️ Lab Instructions 
+## ⭐️ Assessment Two Instructions 
 
 Check the :white_check_mark: Todos & :x: Not Todos 
 
@@ -58,7 +58,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EQg0vewILbpOilhvA2Bm7hsBGTfmb5GkMP_dTYSJcv4PXQ?e=Ba0wgv)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EflPfkhGTaROr3j2qIR0Yy0BmEOczZRrLqS0yi8NE3Zhdg?e=S99blZ)|
 |---|---|---|---|
 
 
