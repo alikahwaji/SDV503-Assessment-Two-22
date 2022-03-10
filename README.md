@@ -36,16 +36,16 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:-:|---|---|
 |:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
 |:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
-|:three:|Write comments explaining each line in your code, use the index.js file provided in the repo to wirte your JavaScript code. :flashlight:|:ballot_box_with_check:|
+|:three:|In the js file, provide comments explaining each line of your code. :flashlight:|:ballot_box_with_check:|
 |:four:|Submit both repository's HTTP URL and download the zip folder using assessment two dropbox on moodle. :inbox_tray:|:ballot_box_with_check:|
-|:five:|Write your assessment reflection using the journal.md file provided in the repo :pencil:|:ballot_box_with_check:|
+|:five:|Write your journal using the journal.md file if provided in the tasks. :pencil:|:ballot_box_with_check:|
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
 |:-:|---|---|
-|:one:|Do NOT fork the lab repo :trident:|:heavy_multiplication_x:|
+|:one:|Do NOT fork the repo :trident:|:heavy_multiplication_x:|
 |:two:|Do NOT share your code :lock_with_ink_pen:|:heavy_multiplication_x:|
 |:three:|Do NOT commit your code without a message :incoming_envelope:|:heavy_multiplication_x:|
-|:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
+|:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
 ## :page_facing_up: Assessment Two Description
@@ -66,9 +66,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 ## :loudspeaker: IMPORTANT NOTE
 ```diff
 - DO NOT confuse yourself between class code activtiy repo submission (which is not marked) and Assessment repo submission (which is marked!). 
-+ However you still have to submit the class activity because this will show your commitmant in class. The Assessment submission is your homework. 
-# Class Activity MUST be a github repo and has a javascript file which will be your playground for your learning, it does not need to have a journal.
-! BOTH ARE COMPULSORY. 
++ Completing this assessment is a course requirement. 
+# Assessments' are GRADED.
+! Assessments ARE COMPULSORY. 
 ```
 
 ## 📝 License
